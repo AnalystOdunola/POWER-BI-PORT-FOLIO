@@ -69,6 +69,6 @@ Combines operational KPIs and business insights into a consolidated performance 
 
 - ## Dashboard Preview
 
-![Logistics Performance Dashboard](executive overview.png)
+![executive overview Dashboard](executive overview.png)
 
 Created by Odunola Adewale.
