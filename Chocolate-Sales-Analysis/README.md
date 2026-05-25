@@ -28,8 +28,11 @@ The project focuses on uncovering revenue trends, profit performance, customer i
 ## Data Preparation
 Data cleaning and transformation were performed using Power Query before visualization in Power BI.
 
-## Author
-Odunola Adewale
+## Dashboard Preview
+
+![Chococo Dashboard](chococo.png)
 
 ## Author
 Odunola Adewale
+
+
