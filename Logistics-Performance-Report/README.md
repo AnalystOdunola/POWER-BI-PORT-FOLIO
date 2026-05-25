@@ -67,8 +67,9 @@ Combines operational KPIs and business insights into a consolidated performance 
 - Dashboard Screenshots
 - Business Performance Analysis
 
-- ## Dashboard Preview
+## Dashboard Preview
 
-![executive overview Dashboard](executive overview.png)
+![Executive Overview](executive-overview.png)
 
-Created by Odunola Adewale.
+## Author
+Odunola Adewale
