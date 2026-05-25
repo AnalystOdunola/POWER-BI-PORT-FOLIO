@@ -67,4 +67,8 @@ Combines operational KPIs and business insights into a consolidated performance 
 - Dashboard Screenshots
 - Business Performance Analysis
 
+- ## Dashboard Preview
+
+![Logistics Performance Dashboard](executive overview.png)
+
 Created by Odunola Adewale.
