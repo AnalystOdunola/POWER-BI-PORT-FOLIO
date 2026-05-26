@@ -69,7 +69,7 @@ Combines operational KPIs and business insights into a consolidated performance 
 
 ## Dashboard Preview
 
-![Executive Overview](executive-overview.png)
+![Executive Overview](Executive-Overview.png)
 
 ## Author
 Odunola Adewale
