@@ -30,7 +30,7 @@ Data cleaning and transformation were performed using Power Query before visuali
 
 ## Dashboard Preview
 
-![Chococo Dashboard](chococo.png)
+![Chocolate Sales Dashboard](Chocolate-Sales-Analysis-Dashboard.png)
 
 ## Author
 Odunola Adewale
