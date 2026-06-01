@@ -13,12 +13,14 @@ This repository showcases end-to-end business intelligence projects where I tran
 
 ## Areas of Analysis
 
-* Sales & Revenue Analytics
-* Logistics & Supply Chain Analytics
-* Financial Performance Analysis
-* Customer & Product Insights
-* Operational Performance Monitoring
-* Public Health Data Analysis
+## Projects Included
+
+- COVID-19 Global Analysis Dashboard
+- Superstore Sales Analysis
+- Chocolate Sales Analysis
+- Logistics Performance Report
+- Netflix Movies and TV Shows Analysis Dashboard
+- Gadgets Sales Analysis Dashboard
 
 ## Skills Demonstrated
 
