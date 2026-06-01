@@ -58,6 +58,8 @@ The dashboard provides a comprehensive view of gadget sales performance, helping
 
 ## Dashboard Preview
 
+![Gadgets Sales Dashboard](gadgets-dashboard.png)
+
 ## Author
 
 **Odunola Adewale**
