@@ -56,7 +56,7 @@ Key lessons included:
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here after uploading dashboard.png)
+![COVID-19 Dashboard](Dashboard.png)
 
 ## Author
 
