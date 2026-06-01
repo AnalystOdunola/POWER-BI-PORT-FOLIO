@@ -61,7 +61,7 @@ The dashboard provides a comprehensive view of Netflix's content library, enabli
 
 ## Dashboard Preview
 
-![Netflix Dashboard](Dashboard.png)
+![Netflix Dashboard](NETFLIX%20DATA%20DASHBOARD.png)
 
 ## Author
 
