@@ -66,7 +66,7 @@ This dashboard was built to answer key questions:
 
 ## Dashboard
 
-![E-Commerce Sales Analysis Dashboard](E-Commerce Dashboard.png)
+![E-Commerce Sales Analysis Dashboard](Dashboard.png)
 
 ## Author
 
