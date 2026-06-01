@@ -1,3 +1,5 @@
+> 🎉 My first Power BI project and the starting point of my data analytics dashboard portfolio.
+
 # 🛒 E-Commerce Sales Analysis
 
 ## Project Overview
@@ -62,9 +64,9 @@ This dashboard was built to answer key questions:
 - DAX
 - Microsoft Excel
 
-- ## Dashboard
+## Dashboard
 
-![E-Commerce Dashboard](E-Commerce-Dashboard.png)
+![E-Commerce Sales Analysis Dashboard](E-Commerce Dashboard.png)
 
 ## Author
 
