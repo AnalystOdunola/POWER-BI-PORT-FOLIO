@@ -1,8 +1,5 @@
 # 🛒 Superstore Sales Dataset Analysis
 
-## Dashboard Preview
-
-![Dashboard](Dashboard.png)
 
 ## Overview
 
