@@ -60,6 +60,7 @@ The objective of this project was to build an interactive dashboard that helps a
 ## Dashboard
 
 The dashboard provides a comprehensive view of Superstore sales performance, enabling stakeholders to monitor revenue, profitability, customer behavior, regional performance, and operational efficiency through interactive filtering and drill-down capabilities.
+![Superstore-Sales-Analysis Dashboard](Superstore.png)
 
 ## Author
 
