@@ -83,7 +83,7 @@ The dataset contains:
 
 ## Dashboard Preview
 
-![Bank Marketing Dashboard](Bank Dashboard.png)
+![Bank Marketing Dashboard](Dashboard.png)
 
 ---
 
