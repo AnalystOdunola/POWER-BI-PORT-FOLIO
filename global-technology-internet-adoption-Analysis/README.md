@@ -101,10 +101,9 @@ The interactive dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![Global Technology Dashboard](Global%20Technology%20Dashboard.png)
+![Global Technology Dashboard](global-technology-dashboard.png)
 
 *Figure 1: Interactive Power BI dashboard showcasing global technology and internet adoption trends (1990–2024).*
-
 
 ---
 
